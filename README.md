@@ -7,13 +7,17 @@
 **Name:** Your Name  
 **Virginia Tech Email:** yourpid@vt.edu
 
-## Design, simulate, layout, solder, and debug a discrete/integrated Buck Converter hardware board from scratch.
+## Project Overview: Design, simulate, layout, solder, and debug a discrete/integrated Buck Converter hardware board from scratch.
 
 Provide a clear description of what you are building and the overall goal of the project.
 
 Include enough detail for someone unfamiliar with the project to understand what it does and why you are building it.
 
-## What I Hope to Learn
+## What I Hope to Learn: 
+1. Simulation & Debugging (LTspice / TINA-TI)
+2. Gate Drive & High-Speed Switching Dynamics
+3. Advanced Controller-Driver PCB Layout design
+4. Advanced Hands-on soldering
 
 Describe the technical skills, concepts, or experience you hope to gain from completing this project.
 

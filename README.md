@@ -12,12 +12,8 @@
 
 ## Design and Implementation
 
-Document the design of your project as it develops.
-
-This may include:
-
 - Block diagrams
-- Circuit schematics
+- Circuit schematics: https://docs.google.com/document/d/1BdkCAzLfTjzwPxYanXzVde7bPyqX8RtbNDLF_z2Dnxg/edit?usp=sharing 
 - PCB designs
 - CAD models
 - Software architecture
@@ -35,7 +31,7 @@ Document the major components and materials used for the project.
 |---|---:|---:|---|
 | Component | 1 | $0.00 | Link |
 
-**Estimated Total Cost:** $0.00
+**Estimated Total Cost:** $25-45
 
 ## Timeline and Milestones
 
@@ -71,13 +67,6 @@ Organize and document important project files in this repository. Depending on t
 - Documentation
 
 ## Useful Links
-
-Add any references, datasheets, documentation, tutorials, or other resources relevant to the project.
-
+Datasheet: https://drive.google.com/file/d/1Q9XMRaC4tn0P3AaCaJKCyOk8IdyvX2uC/view?usp=sharing
+Reference Deign: https://drive.google.com/file/d/1dFLxxQdINtimgmnp1gwv5uc5qEMV1fhu/view?usp=sharing
 ## Project Image
-
-Replace the `hero.png` file in the root of this repository with an image representing your project.
-
-**Keep the filename as `hero.png`.**
-
-This image is used as the project cover image on the AMP Lab website.

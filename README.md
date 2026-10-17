@@ -29,8 +29,12 @@ Document the major components and materials used for the project.
 
 | Item | Quantity | Estimated Cost | Link |
 |---|---:|---:|---|
-| Component | 1 | $0.00 | Link |
-
+| Capacitor | 20 | $1.00 | Link |
+| Resistor | 20 | $0.50 | Link |
+| Diode | 4 | $0.50 | Link |
+| MOSFET | 4 | $1.00 | Link |
+| Inductor | 2 | $1.00 | Link |
+| Circuit Board | 2 | $2.00 | Link |
 **Estimated Total Cost:** $25-45
 
 ## Timeline and Milestones
@@ -39,11 +43,11 @@ Outline the major stages of the project and update them as work progresses.
 
 | Milestone | Target Date | Status |
 |---|---|---|
-| Project planning | Date | Not Started |
-| Initial design | Date | Not Started |
-| Prototype | Date | Not Started |
-| Testing | Date | Not Started |
-| Project completion | Date | Not Started |
+| Project planning | 2026 10.1 | Completed |
+| Initial design | 2026 10.12 | Completed |
+| Prototype | 2026 11.23 | Not Started |
+| Testing | 2027 | Not Started |
+| Project completion | 2027 | Not Started |
 
 ## Progress Log
 

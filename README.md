@@ -1,13 +1,13 @@
-# Project Name
+# LM5117 synchronous Buck Converter design
 
 > Replace this title with the name of your project.
 
-## Project Owner
+## Zimo Zhu zimo@vt.edu
 
 **Name:** Your Name  
 **Virginia Tech Email:** yourpid@vt.edu
 
-## Project Overview
+## Design, simulate, layout, solder, and debug a discrete/integrated Buck Converter hardware board from scratch.
 
 Provide a clear description of what you are building and the overall goal of the project.
 
